@@ -27,3 +27,15 @@ Techniques: Anomaly Detection, Feature Engineering, Hyperparameter Tuning, Model
 ## File Structure
 
 CreditCard.ipynb: Jupyter Notebook containing the full implementation of data preprocessing, anomaly detection, model training, and evaluation.
+
+## Results
+
+99% accuracy in anomaly detection using Isolation Forest.
+
+Improved model performance by 20% with hyperparameter tuning.
+
+Achieved 75% F1-Score and 74% Recall with XGBoost, minimizing false negatives by 22%.
+
+## License
+
+This project is licensed under the MIT License.
